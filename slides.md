@@ -32,6 +32,7 @@ layout: intro
 
 # Slides
 
+- [potatosalad.io/elixirconf2023](https://potatosalad.io/elixirconf2023)
 - [github.com/potatosalad/elixirconf2023](https://github.com/potatosalad/elixirconf2023)
 
 ---
